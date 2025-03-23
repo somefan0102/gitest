@@ -3,6 +3,8 @@ import quiz
 # print("Hello, world!")
 # sum.sum(2, 3)
 
+# third comment
+
 quiz.start(
     [
         ["What color is the sky? | ", "depends"],
