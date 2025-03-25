@@ -2,4 +2,4 @@
 
 **gitest** is just a simple test repository for experimenting with Git and its commands.
 
-nothing special.
+Nothing special.
