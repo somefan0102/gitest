@@ -1,7 +1,7 @@
-def sum(a, a):
-    print(f"{a + a = }")
-    return a + a
+def sum(a, b):
+    print(f"{a + b = }")
+    return a + b
 
-def difference(a, a):
-    print(f"{a - a = }")
-    return a - a
+def difference(a, b):
+    print(f"{a - b = }")
+    return a - b
